@@ -9,9 +9,9 @@
         "Telegram",
         "nazriya"
     ],
-    "website": "https://github.com/MR-JINN-OF-TG",
-    "repository": "https://github.com/MR-JINN-OF-TG/Song-Downloader",
-    "success_url": "https://t.me/NAZRIYASUPPORT",
+    "website": "https://github.com/Shankssama",
+    "repository": "https://github.com/Shankssama/Song-Downloader",
+    "success_url": "https://t.me/Anime_TV_Network",
     "env": {
         "BOT_TOKEN": {
             "description": "Your Telegram Bot Token from @BotFather",
